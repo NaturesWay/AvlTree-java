@@ -1,0 +1,7 @@
+# Names for database
+# Don't modify this file
+# These are comments
+# File description:
+# ID, FirstName LastName Age
+1 Aeris Lopez 18
+2 Sofia Yeong 33
